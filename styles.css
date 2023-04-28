@@ -1,0 +1,21 @@
+h1{
+color: white;
+background-color: green;
+}
+
+.text{
+    color: red;
+}
+
+#text2{
+    color: brown;
+}
+
+.lightblue{
+    color: lightblue;
+}
+
+table, th, td{
+    border-collapse: collapse;
+    border: 2px solid black;
+}
